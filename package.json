@@ -1,0 +1,8 @@
+{
+  "name": "gh-pr-stack-study",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
